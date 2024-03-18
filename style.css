@@ -1,0 +1,59 @@
+.principal{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px;
+    background-color: rgb(231, 231, 231);
+    
+}
+
+h1{
+display: flex;
+justify-content: center;
+margin-bottom: 20px;
+}
+
+.post{
+    background-color: #fff;
+    width: 30%;
+    margin: 20px 20px;
+    height: auto;
+    
+}
+
+.info{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 10px;
+
+
+}
+
+
+.images1{
+    width: 331px;
+    height: 300px;
+    object-fit: cover;
+    margin-bottom: 10px;
+    
+}
+
+images2{
+    width: 380px;
+    height: 500px;
+    object-fit: cover;
+    margin-bottom: 10px;
+    
+}
+
+images3{
+    width: 800px;
+    height: 500px;
+    
+}
+
+images4{
+    width: 200%;
+    
+}
